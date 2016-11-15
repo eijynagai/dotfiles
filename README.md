@@ -6,3 +6,6 @@ About
  * .bashrc - main file with configuration instructions for mac and linux, but 
  personal configuration should be included in `.bashrc.private`.
  * .bashrc.private - file with personal configuration.
+
+
+ Raul is here.
