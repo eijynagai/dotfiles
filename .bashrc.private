@@ -1,0 +1,17 @@
+# Specific parameters for this computer: <computer_name>
+PATH=$PATH:/usr/local/bin/ghostpdl-9.19/
+PATH=$PATH:/usr/local/bin/weblogo/
+PATH=$PATH:/usr/local/bin/blatSuite.34/
+PATH=$PATH:/usr/local/bin/homer.v4.8.3/bin/
+PATH=$PATH:/usr/local/bin/homer.v4.8.3/cpp/
+
+#export LC_ALL = en_US.UTF-8
+#export LANG=en_US.UTF-8
+
+# added by Anaconda3 4.1.1 installer
+#export PATH="/Users/nagai/anaconda/bin:$PATH"
+
+# Setting PATH for Python 3.5
+# The original version is saved in .bash_profile.pysave
+#PATH="/Library/Frameworks/Python.framework/Versions/3.5/bin:${PATH}"
+export PATH
