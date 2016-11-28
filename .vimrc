@@ -7,6 +7,7 @@
  set showmatch
  set list listchars=trail:·,tab:▹\ ,nbsp:█
  set termguicolors
+ set relativenumber
  syntax on
  "
  " Solarized settings
