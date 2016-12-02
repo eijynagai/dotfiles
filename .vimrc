@@ -1,3 +1,5 @@
+ # Original file with great efforts from rbasso <https://github.com/rbasso/dotfiles/blob/master/homedir/.vimrc>. Thank you!
+ 
  "Appearance
  set ruler
  set cursorline
@@ -7,7 +9,7 @@
  set showmatch
  set list listchars=trail:·,tab:▹\ ,nbsp:█
  set termguicolors
- set relativenumber
+ set relativenumber                       #shows the lines distance from the current line.
  syntax on
  "
  " Solarized settings
